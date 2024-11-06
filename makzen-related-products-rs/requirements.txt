@@ -1,0 +1,17 @@
+flask
+
+pandas
+
+sortedcontainers
+
+mysql.connector
+
+flask_cors
+
+sklearn
+
+sqlalchemy
+
+scipy
+
+scikit-learn==1.0.2

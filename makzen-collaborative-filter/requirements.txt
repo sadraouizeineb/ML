@@ -1,0 +1,10 @@
+flask
+
+pandas
+
+
+sortedcontainers
+
+mysql.connector
+
+flask_cors
